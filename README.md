@@ -116,7 +116,7 @@ func Test_numberOfSteps(t *testing.T) {
 }
 ```
 ## my self record
-[leetcode golang 7th day](https://hackmd.io/I6Np7LmxQFuH8dpFoOZ5Wg?view)
+[leetcode golang 6th day](https://hackmd.io/I6Np7LmxQFuH8dpFoOZ5Wg?view)
 ## 參考文章
 
 [golang test](https://ithelp.ithome.com.tw/articles/10204692)
